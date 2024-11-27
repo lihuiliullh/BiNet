@@ -54,6 +54,8 @@ Details about how to generate knowledge graph completion files, and how to gener
 
 There are 3 datasets: fbwq_full, fbwq_half and fbwq_30 (fbsimpleQA_half and fbsimpleQA_30)
 
+WebQuestionsSP contains both single hop questions and multiple hop (2hop) questions. It can be completed using the same strategy as metaQA 2hop which could bring performance improvement. 
+
 ### QA Dataset
 
 Same as the original WebQuestionsSP QA dataset.
