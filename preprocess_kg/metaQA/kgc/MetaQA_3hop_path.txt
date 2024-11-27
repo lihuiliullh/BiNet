@@ -1,0 +1,150 @@
+the films that share actors with the film NE were released in which years	Prophecy	starred_actors|starred_actors_reverse|release_year
+who are the directors of the movies written by the writer of NE	The Haunted Strangler	written_by|written_by_reverse|directed_by
+which person directed the films acted by the actors in NE	My Life	starred_actors|starred_actors_reverse|directed_by
+who is listed as director of the movies starred by NE actors	Race	starred_actors|starred_actors_reverse|directed_by
+what types are the films directed by the director of NE	Lovely Molly	directed_by|directed_by_reverse|has_genre
+who wrote films that share actors with the film NE	Intruder in the Dust	starred_actors|starred_actors_reverse|written_by
+the movies that share actors with the movie NE were released in which years	Syriana	starred_actors|starred_actors_reverse|release_year
+when did the movies release whose actors also appear in the movie NE	The Tunnel of Love	starred_actors|starred_actors_reverse|release_year
+what languages are the films that share directors with NE in	The Silence	directed_by|directed_by_reverse|in_language
+who are the actors in the movies written by the writer of NE	Jaws 3-D	written_by|written_by_reverse|starred_actors
+who starred in the films whose directors also directed NE	Drifting Clouds	directed_by|directed_by_reverse|starred_actors
+who are the directors of the films written by the writer of NE	Zero for Conduct	written_by|written_by_reverse|directed_by
+who are the screenwriters that the actors in their movies also appear in the movie NE	Liebestraum	starred_actors|starred_actors_reverse|written_by
+what were the release dates of movies starred by actors in NE	42	starred_actors|starred_actors_reverse|release_year
+who directed films for the writer of NE	The Teahouse of the August Moon	written_by|written_by_reverse|directed_by
+what are the languages spoken in the films starred by NE actors	The Burning Plain	starred_actors|starred_actors_reverse|in_language
+the films that share directors with the film NE were released in which years	Top Gun	directed_by|directed_by_reverse|release_year
+the films that share actors with the film NE were in which genres	The Tripper	starred_actors|starred_actors_reverse|has_genre
+who starred films for the director of NE	Far from the Madding Crowd	directed_by|directed_by_reverse|starred_actors
+which person wrote the movies directed by the director of NE	Seven Samurai	directed_by|directed_by_reverse|written_by
+what types are the movies written by the writer of NE	The Color of Paradise	written_by|written_by_reverse|has_genre
+which person directed the movies starred by the actors in NE	Unholy	starred_actors|starred_actors_reverse|directed_by
+who are the directors that the actors in their films also appear in the film NE	Magnificent Obsession	starred_actors|starred_actors_reverse|directed_by
+what were the release years of the films that share directors with the film NE	Naked	directed_by|directed_by_reverse|release_year
+the films that share directors with the film NE were in which languages	Come Undone	directed_by|directed_by_reverse|in_language
+the movies written by the screenwriter of NE starred who	The Baker's Wife	written_by|written_by_reverse|starred_actors
+who are the directors that the actors in their movies also appear in the movie NE	Mad Dog and Glory	starred_actors|starred_actors_reverse|directed_by
+what were the release years of the films that share writers with the film NE	Guantanamera	written_by|written_by_reverse|release_year
+what are the primary languages in the movies written by the writer of NE	Kippur	written_by|written_by_reverse|in_language
+who starred films for the screenwriter of NE	Late August, Early September	written_by|written_by_reverse|starred_actors
+the films that share screenwriters with NE were released in which years	Little Murders	written_by|written_by_reverse|release_year
+who directed films that share actors with the film NE	Sinners and Saints	starred_actors|starred_actors_reverse|directed_by
+who acted in the films directed by the director of NE	City Island	directed_by|directed_by_reverse|starred_actors
+who directed the movies written by the writer of NE	Janie Jones	written_by|written_by_reverse|directed_by
+what were the release dates of films starred by actors in NE	Out of the Past	starred_actors|starred_actors_reverse|release_year
+who are the writers that the directors of their films also directed NE	The Family Jewels	directed_by|directed_by_reverse|written_by
+what languages are the movies that share actors with NE in	Come September	starred_actors|starred_actors_reverse|in_language
+the movies that share writers with the movie NE were released in which years	Fade to Black	written_by|written_by_reverse|release_year
+what are the languages spoken in the movies whose actors also appear in NE	Agnes of God	starred_actors|starred_actors_reverse|in_language
+who are the screenwriters that the directors of their movies also directed NE	Without Limits	directed_by|directed_by_reverse|written_by
+what are the languages spoken in the movies whose writers also wrote NE	Mississippi Mermaid	written_by|written_by_reverse|in_language
+the movies that share actors with the movie NE are directed by who	True Confessions	starred_actors|starred_actors_reverse|directed_by
+the films written by the writer of NE starred who	Beeswax	written_by|written_by_reverse|starred_actors
+what genres do the movies that share screenwriters with NE fall under	Young Einstein	written_by|written_by_reverse|has_genre
+the movies that share writers with the movie NE were in which genres	State of the Union	written_by|written_by_reverse|has_genre
+the movies that share writers with the movie NE were in which languages	Frozen	written_by|written_by_reverse|in_language
+what are the genres of the films whose directors also directed NE	The Last Samurai	directed_by|directed_by_reverse|has_genre
+the films that share actors with the film NE are directed by who	Soapdish	starred_actors|starred_actors_reverse|directed_by
+the films directed by the director of NE starred who	Marci X	directed_by|directed_by_reverse|starred_actors
+what genres are the movies starred by NE actors	Above the Rim	starred_actors|starred_actors_reverse|has_genre
+what are the languages spoken in the films whose directors also directed NE	Vanya on 42nd Street	directed_by|directed_by_reverse|in_language
+what genres are the movies written by NE writers	Parkland	written_by|written_by_reverse|has_genre
+who is listed as screenwriter of the films starred by NE actors	Stuart Little	starred_actors|starred_actors_reverse|written_by
+when did the films starred by NE actors release	The Homesman	starred_actors|starred_actors_reverse|release_year
+who are the writers that the actors in their films also appear in the film NE	Twisted Nerve	starred_actors|starred_actors_reverse|written_by
+who starred in the movies whose director also directed NE	Compulsion	directed_by|directed_by_reverse|starred_actors
+when did the movies release whose directors also directed NE	Syndromes and a Century	directed_by|directed_by_reverse|release_year
+what types are the movies written by the screenwriter of NE	Julie	written_by|written_by_reverse|has_genre
+what types are the films starred by actors in NE	The Prince of Pennsylvania	starred_actors|starred_actors_reverse|has_genre
+what languages are the movies that share screenwriters with NE in	The Man Without a Past	written_by|written_by_reverse|in_language
+what are the primary languages in the films written by the screenwriter of NE	In a Better World	written_by|written_by_reverse|in_language
+the movies that share directors with the movie NE were released in which years	The Hot Spot	directed_by|directed_by_reverse|release_year
+who starred movies for the director of NE	Chaos	directed_by|directed_by_reverse|starred_actors
+what languages are the movies that share directors with NE in	The St. Valentine's Day Massacre	directed_by|directed_by_reverse|in_language
+what are the genres of the movies whose writers also wrote NE	Edward II	written_by|written_by_reverse|has_genre
+what genres do the movies that share directors with NE fall under	Arthur Christmas	directed_by|directed_by_reverse|has_genre
+what types are the movies directed by the director of NE	Divine Secrets of the Ya-Ya Sisterhood	directed_by|directed_by_reverse|has_genre
+who are the directors of films whose writers also wrote NE	The Crimson Rivers	written_by|written_by_reverse|directed_by
+what genres are the films written by NE screenwriters	All the President's Men	written_by|written_by_reverse|has_genre
+which person wrote the movies starred by the actors in NE	Mimic 2	starred_actors|starred_actors_reverse|written_by
+the movies directed by the director of NE starred who	Nightmare	directed_by|directed_by_reverse|starred_actors
+who are the actors in the movies directed by the director of NE	Flaming Star	directed_by|directed_by_reverse|starred_actors
+the movies that share actors with the movie NE were in which languages	The Big White	starred_actors|starred_actors_reverse|in_language
+when did the films release whose screenwriters also wrote NE	Gracie's Choice	written_by|written_by_reverse|release_year
+the films written by the screenwriter of NE were directed by who	The Dead Girl	written_by|written_by_reverse|directed_by
+the films that share writers with the film NE were in which genres	My Neighbors the Yamadas	written_by|written_by_reverse|has_genre
+who acted in the films written by the screenwriter of NE	The Divide	written_by|written_by_reverse|starred_actors
+who is listed as screenwriter of the movies starred by NE actors	Year of the Gun	starred_actors|starred_actors_reverse|written_by
+what were the release dates of movies written by the writer of NE	Casshern	written_by|written_by_reverse|release_year
+who directed movies for the writer of NE	Scooby-Doo	written_by|written_by_reverse|directed_by
+who are the actors in the films written by the screenwriter of NE	New York	written_by|written_by_reverse|starred_actors
+what are the languages spoken in the films written by NE screenwriters	The Earrings of Madame de...	written_by|written_by_reverse|in_language
+who acted in the movies written by the writer of NE	Kundun	written_by|written_by_reverse|starred_actors
+when did the movies written by NE writers release	Ninotchka	written_by|written_by_reverse|release_year
+what types are the movies starred by actors in NE	Better Living Through Chemistry	starred_actors|starred_actors_reverse|has_genre
+the films that share actors with the film NE were in which languages	Green Fire	starred_actors|starred_actors_reverse|in_language
+what are the genres of the movies whose directors also directed NE	Wonder Boys	directed_by|directed_by_reverse|has_genre
+the films that share actors with the film NE are written by who	The Last Starfighter	starred_actors|starred_actors_reverse|written_by
+who is listed as screenwriter of the films directed by the NE director	The Order	directed_by|directed_by_reverse|written_by
+what were the release years of the movies that share actors with the movie NE	The Color Purple	starred_actors|starred_actors_reverse|release_year
+what are the languages spoken in the movies starred by NE actors	Cloudy with a Chance of Meatballs 2	starred_actors|starred_actors_reverse|in_language
+who are the directors of movies whose writers also wrote NE	The Secret of Roan Inish	written_by|written_by_reverse|directed_by
+what are the primary languages in the films starred by actors in NE	Mystery Train	starred_actors|starred_actors_reverse|in_language
+who wrote movies that share directors with the movie NE	Cowboy	directed_by|directed_by_reverse|written_by
+what are the genres of the movies whose actors also appear in NE	Theodore Rex	starred_actors|starred_actors_reverse|has_genre
+the movies that share directors with the movie NE were in which languages	Young Cassidy	directed_by|directed_by_reverse|in_language
+the films that share directors with the films NE are written by who	Angus	directed_by|directed_by_reverse|written_by
+who directed movies that share actors with the movie NE	Shoot to Kill	starred_actors|starred_actors_reverse|directed_by
+what were the release dates of films directed by the director of NE	Lean on Me	directed_by|directed_by_reverse|release_year
+what were the release years of the movies that share directors with the movie NE	The James Dean Story	directed_by|directed_by_reverse|release_year
+what genres do the films that share directors with NE fall under	Encounter in the Third Dimension	directed_by|directed_by_reverse|has_genre
+who is listed as director of the films starred by NE actors	Elektra	starred_actors|starred_actors_reverse|directed_by
+who are the actors in the films directed by the director of NE	Twister	directed_by|directed_by_reverse|starred_actors
+the films that share directors with the film NE were in which genres	Key Largo	directed_by|directed_by_reverse|has_genre
+what were the release dates of movies directed by the director of NE	Saints and Soldiers	directed_by|directed_by_reverse|release_year
+what genres are the films starred by NE actors	White of the Eye	starred_actors|starred_actors_reverse|has_genre
+what are the languages spoken in the films directed by the NE director	Avanti!	directed_by|directed_by_reverse|in_language
+which person wrote the films acted by the actors in NE	Tribute to a Bad Man	starred_actors|starred_actors_reverse|written_by
+the movies written by the screenwriter of NE were directed by who	Into the Woods	written_by|written_by_reverse|directed_by
+what genres are the movies directed by the NE director	Flash Gordon	directed_by|directed_by_reverse|has_genre
+the movies that share actors with the movie NE are written by who	Bogus	starred_actors|starred_actors_reverse|written_by
+who acted in the movies directed by the director of NE	Confidentially Yours	directed_by|directed_by_reverse|starred_actors
+the movies that share directors with the movie NE were in which genres	Sex Is Comedy	directed_by|directed_by_reverse|has_genre
+when did the films written by NE writers release	Old School	written_by|written_by_reverse|release_year
+what genres do the films that share actors with NE fall under	Gandhi	starred_actors|starred_actors_reverse|has_genre
+when did the films directed by the NE director release	The Cotton Club	directed_by|directed_by_reverse|release_year
+the movies that share actors with the movie NE were in which genres	Ella Enchanted	starred_actors|starred_actors_reverse|has_genre
+who is listed as screenwriter of the movies directed by the NE director	Meet the Applegates	directed_by|directed_by_reverse|written_by
+who wrote movies that share actors with the movie NE	Bedknobs and Broomsticks	written_by|written_by_reverse|starred_actors
+what languages are the films that share actors with NE in	My Stepmother Is an Alien	starred_actors|starred_actors_reverse|in_language
+when did the movies starred by NE actors release	Sinbad and the Eye of the Tiger	starred_actors|starred_actors_reverse|release_year
+what genres do the movies that share actors with NE fall under	Dressed to Kill	starred_actors|starred_actors_reverse|has_genre
+what are the primary languages in the films directed by the director of NE	Welcome to New York	directed_by|directed_by_reverse|in_language
+what were the release dates of films written by the screenwriter of NE	Preaching to the Perverted	written_by|written_by_reverse|release_year
+who starred movies for the writer of NE	The Gallant Hours	written_by|written_by_reverse|starred_actors
+what are the languages spoken in the movies directed by the NE director	The Undead	directed_by|directed_by_reverse|in_language
+what are the primary languages in the movies starred by actors in NE	Force 10 from Navarone	starred_actors|starred_actors_reverse|in_language
+what are the languages spoken in the films whose actors also appear in NE	The Warrior	starred_actors|starred_actors_reverse|in_language
+what are the languages spoken in the films whose writers also wrote NE	Cleopatra	written_by|written_by_reverse|in_language
+when did the movies release whose writers also wrote NE	The Killer Inside Me	written_by|written_by_reverse|release_year
+the movies that share directors with the movie NE are written by who	The Young in Heart	directed_by|directed_by_reverse|written_by
+what genres are the films directed by the NE director	Definitely, Maybe	directed_by|directed_by_reverse|has_genre
+when did the movies directed by the NE director release	With a Song in My Heart	directed_by|directed_by_reverse|release_year
+what were the release years of the films that share actors with the film NE	Secret Admirer	starred_actors|starred_actors_reverse|release_year
+who directed the films written by the writer of NE	Troma's War	written_by|written_by_reverse|directed_by
+when did the films release whose actors also appear in the film NE	The Spoilers	starred_actors|starred_actors_reverse|release_year
+when did the films release whose directors also directed NE	Easy Money	directed_by|directed_by_reverse|release_year
+which person wrote the films directed by the director of NE	Homegrown	directed_by|directed_by_reverse|written_by
+what genres do the films that share writers with NE fall under	CB4	written_by|written_by_reverse|has_genre
+what are the genres of the films whose screenwriters also wrote NE	Losing Isaiah	written_by|written_by_reverse|has_genre
+who wrote films that share directors with the film NE	Série noire	directed_by|directed_by_reverse|written_by
+who starred in the movies whose writers also wrote NE	Three Brave Men	written_by|written_by_reverse|starred_actors
+who starred in the films whose screenwriters also wrote NE	Starting Over	written_by|written_by_reverse|starred_actors
+what languages are the films that share writers with NE in	Do Not Disturb	written_by|written_by_reverse|in_language
+the movies that share screenwriters with the movie NE were in which languages	The Statement	written_by|written_by_reverse|in_language
+what are the primary languages in the movies directed by the director of NE	The Tree of Life	directed_by|directed_by_reverse|in_language
+what are the genres of the films whose actors also appear in NE	Safe	starred_actors|starred_actors_reverse|has_genre
+what were the release years of the movies that share screenwriters with the movie NE	Breathless	written_by|written_by_reverse|release_year
+what are the languages spoken in the movies whose directors also directed NE	Million Dollar Mystery	directed_by|directed_by_reverse|in_language
+what are the languages spoken in the movies written by NE writers	Guru	written_by|written_by_reverse|in_language
