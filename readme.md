@@ -84,3 +84,5 @@ The old version of code and all the dataset can be download from https://drive.g
 
 
 Please consider cite the paper "Joint Knowledge Graph Completion and Question Answering" KDD 2022 if you think the paper or code is useful.
+
+02 mc
