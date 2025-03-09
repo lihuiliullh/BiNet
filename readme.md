@@ -62,9 +62,11 @@ Same as the original WebQuestionsSP QA dataset.
 
 ### More Experiment Results
 
+incomplete means 50% KG
+
 ![image](https://github.com/user-attachments/assets/ef96d90c-eb2e-4756-9e3c-94a57855d7e8)
 
-![image](https://github.com/user-attachments/assets/1be510dc-0fb7-4269-91b3-5fee46c21550)
+![Screenshot 2025-03-09 at 7 13 50 PM](https://github.com/user-attachments/assets/86b531cb-6722-45de-a9b2-b5167a6a0377)
 
 ![image](https://github.com/user-attachments/assets/80f6d6c4-074c-496c-a3e8-4ea0b3c40be9)
 
