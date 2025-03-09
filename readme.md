@@ -60,6 +60,16 @@ WebQuestionsSP contains both single hop questions and multiple hop (2hop) questi
 
 Same as the original WebQuestionsSP QA dataset.
 
+### More Experiment Results
+
+![image](https://github.com/user-attachments/assets/ef96d90c-eb2e-4756-9e3c-94a57855d7e8)
+
+![image](https://github.com/user-attachments/assets/1be510dc-0fb7-4269-91b3-5fee46c21550)
+
+![image](https://github.com/user-attachments/assets/80f6d6c4-074c-496c-a3e8-4ea0b3c40be9)
+
+<!--- Hic-KGQA: Improving multi-hop question answering over knowledge graph via hypergraph and inference chain -->
+
 # How to cite
 
 If you used our work or found it helpful, please use the following citation:
