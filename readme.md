@@ -62,6 +62,35 @@ Same as the original WebQuestionsSP QA dataset.
 
 ### More Experiment Results
 
+**compared with LLM + RAG**
+| Type | Method | WebQSP Hits@1 | WebQSP F1 | CWQ Hits@1 | CWQ F1 |
+|---|---|---|---|---|---|
+| Embedding | KV-Mem | 46.7 | 34.5 | 18.4 | 15.7 |
+| Embedding | EmbedKGQA | 66.6 | – | 45.9 | – |
+| Embedding | NSM | 68.7 | 62.8 | 47.6 | 42.4 |
+| Embedding | TransferNet | 71.4 | – | 48.6 | – |
+| Embedding | KGT5 | 56.1 | – | 36.5 | – |
+| Retrieval | GraftNet | 66.4 | 60.4 | 36.8 | 32.7 |
+| Retrieval | PullNet | 68.1 | – | 45.9 | – |
+| Retrieval | SR+NSM | 68.9 | 64.1 | 50.2 | 47.1 |
+| Retrieval | SR+NSM+E2E | 69.5 | 64.1 | 49.3 | 46.3 |
+| Semantic Parsing | SPARQA | – | – | 31.6 | – |
+| Semantic Parsing | QGG | 73.0 | 73.8 | 36.9 | 37.4 |
+| Semantic Parsing | ArcaneQA | – | 75.3 | – | – |
+| Semantic Parsing | RnG-KBQA | – | 76.2 | – | – |
+| LLMs | Flan-T5-xl | 31.0 | – | 14.7 | – |
+| LLMs | Alpaca-7B | 51.8 | – | 27.4 | – |
+| LLMs | LLaMA2-Chat-7B | 64.4 | – | 34.6 | – |
+| LLMs | ChatGPT | 66.8 | – | 39.9 | – |
+| LLMs | ChatGPT+CoT | 75.6 | – | 48.9 | – |
+| LLMs+KGs | KD-CoT | 68.6 | 52.5 | 55.7 | – |
+| LLMs+KGs | UniKGQA | 77.2 | 72.2 | 51.2 | 49.1 |
+| LLMs+KGs | DECAF (DPR+FiD-3B) | 82.1 | 78.8 | – | – |
+| LLMs+KGs | RoG | 85.7 | 70.8 | 62.6 | 56.2 |
+| | **(ours)** | **69.2** | **64.1** | **48.3** | **46.2** |
+
+
+
 incomplete means 50% KG
 
 ![image](https://github.com/user-attachments/assets/ef96d90c-eb2e-4756-9e3c-94a57855d7e8)
