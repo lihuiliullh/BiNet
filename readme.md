@@ -63,6 +63,8 @@ Same as the original WebQuestionsSP QA dataset.
 ### More Experiment Results
 
 **compared with LLM + RAG**
+<img width="650" height="654" alt="Screenshot 2026-09-21 at 9 38 30 AM" src="https://github.com/user-attachments/assets/2e4c64f4-b109-452e-8849-9879d2eee684" />
+
 | Type | Method | WebQSP Hits@1 | WebQSP F1 | CWQ Hits@1 | CWQ F1 |
 |---|---|---|---|---|---|
 | Embedding | KV-Mem | 46.7 | 34.5 | 18.4 | 15.7 |
@@ -90,13 +92,13 @@ Same as the original WebQuestionsSP QA dataset.
 | | **(ours)** | **69.2** | **64.1** | **48.3** | **46.2** |
 
 
-
-incomplete means 50% KG
-
+### Results on complete KG
 ![image](https://github.com/user-attachments/assets/ef96d90c-eb2e-4756-9e3c-94a57855d7e8)
 
+### Results on incomplete KG
 ![Screenshot 2025-03-09 at 7 13 50 PM](https://github.com/user-attachments/assets/86b531cb-6722-45de-a9b2-b5167a6a0377)
 
+### Results on other datasets
 ![image](https://github.com/user-attachments/assets/80f6d6c4-074c-496c-a3e8-4ea0b3c40be9)
 
 <!--- Hic-KGQA: Improving multi-hop question answering over knowledge graph via hypergraph and inference chain -->
